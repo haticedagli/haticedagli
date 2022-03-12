@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Teknasyon
 - 🔭 I’m currently working on HepsiEmlak Java Spring Bootcamp
 - 🌱 I’m currently learning Java Spring and other software technologies
 - 👯 I’m looking to collaborate on development in software
