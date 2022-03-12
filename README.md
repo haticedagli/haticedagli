@@ -6,7 +6,7 @@
 </h1>
 <h2 align="center">Contact Me With Linkedin</h2>
 <h5 align="center">
-### Hi there 👋
+
 
 - 🔭 I’m currently working on Teknasyon
 - 📚 I’m currently working on Hepsiemlak Java Spring Bootcamp
