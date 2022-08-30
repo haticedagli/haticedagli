@@ -8,7 +8,7 @@
 <h5 align="center">
 
 
-- 🔭 I’m currently working on Teknasyon
+- 🔭 I am actively looking for a job
 - 🌱 I’m currently learning Java Spring and other software technologies
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
