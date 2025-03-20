@@ -8,7 +8,7 @@
 <h5 align="center">
 
 
-- 🏢 I'm working as a FullStack Developer at Alternatif Bank
+- 🏢 I'm working as a Senior Software Developer at Gtech
 - 🌱 I’m currently learning Java Spring and other software technologies
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
